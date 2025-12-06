@@ -1,0 +1,96 @@
+.news-and-events {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.events {
+  margin-bottom: 30px;
+  color: green;
+  text-align: center;
+}
+
+.product-launch {
+  margin-bottom: 20px;
+}
+
+.product-launch h3 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+  font-size: larger;
+}
+
+.video-container {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px; 
+  padding-bottom: 50px;
+  
+}
+
+.video-container video {
+  margin-left: 300px;
+  height: 600px;
+}
+
+.video-container .video-description {
+  max-width: 300px; 
+  font-size: 14px;
+}
+
+.brand-activation {
+  margin-top: 30px;
+}
+
+.brand-activation h3 {
+  margin-top: 50px;
+  margin-bottom: 120px;
+  
+}
+
+.image-gallery {
+  display: flex;
+  flex-direction: row;
+  gap: 20px; 
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.image-item {
+  display: flex;
+  height: 100px;
+  align-items: center;
+  margin-bottom: 150px;
+  margin-left: 50px;
+  gap: 20px; 
+}
+
+.image-item img {
+  width: 150px; 
+  border: 2px solid #ddd; 
+  border-radius: 5px;
+}
+
+.image-description {
+  font-size: 14px;
+  max-width: 300px;
+}
+
+.btn{
+margin-top: 20px;
+margin-bottom: 20px;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 20px;
+padding-right: 20px;
+display: inline-block;
+background-color: green;
+color: white;
+border-radius: 20px;
+}
+
+.news{
+  color: green;
+  font-size: larger;
+  text-align: center;
+}
